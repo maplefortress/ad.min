@@ -106,7 +106,7 @@
       <div style="display: flex; flex-direction: column; max-width: 500px; position: fixed; top: 24px; right: 24px;">
     <div class="spin-logo" style="display: flex; flex-direction: row; margin: 0 auto;">
       
-      <div><?php $result = $_GET['img/a-flip.png'];?><img src="img/<?php echo $result; ?>.png"></div>
+      <div><?php echo "<img src=\"img/a-flip.png\" />"; ?></div>
       <div><img class="diff" src="../img/a-flip.png"></div>
       <div><img class="diffmore" src="/../img/a-flip.png"></div>
       <div><img class="diffmore" src="../../img/a-flip.png"></div>
