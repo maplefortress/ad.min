@@ -115,7 +115,7 @@
       <div><?php echo "<img src=\"img/a-flip.png\">"; ?></div>
       <div><img class="diff" src="../img/a-flip.png"></div>
       <div><img class="diffmore" src="/../img/a-flip.png"></div>
-      <div><img class="diffmore" src="../../img/a-flip.png"></div>
+      <div><img class="diffmore" src="/img/a-flip.png"></div>
       <div><img src="../public_html/img/a-flip.png"></div>
     </div>
     
