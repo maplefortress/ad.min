@@ -167,7 +167,7 @@
       <ul>
      
         <li class="yep"><img src="yes/allred.png" alt=""></li> 
-     <li class="yep"><img src="yes/nance-FB-social.png" alt=""></li> 
+     <li class="yep"><img src="https://maplefortress.us/yes/david-nance-poster-Maple-Fortress.jpg" alt=""></li> 
    <li class="yep"><img src="yes/gud19.png" alt=""></li>
         <li class="yep"><img src="yes/lon-4.png" alt=""></li>
         <li class="yep"><img src="yes/gods-cardinal-final-2018.jpg" alt=""></li>
