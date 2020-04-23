@@ -21,11 +21,5 @@ do
 	echo "Processing $f file..";
 done
 
-#Copy all image files
-for f in *.png; 
-do
-	cat $f > "$DEST/$f";
-	echo "Processing $f file..";
-done
 
 echo "Process complete." ;
