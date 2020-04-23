@@ -216,7 +216,7 @@
       <div class="flex-2"> 
         <div style="margin-top: 0px; padding: 0px 36px 36px;">
          <h1 class="center">Hopscotch Music Festival ></h1>
-        <img src="public_html/hopscotch-test.png">
+        <img src="/public_html/hopscotch-test.png">
           </div>
         <div style="margin-top: 0px; padding: 0px 36px 36px;">
           
@@ -229,7 +229,7 @@
         </div>
         <div style="margin-top: 0px; padding: 0px 36px 36px;">
           <h1 class="center">Lily's Snack Bar / The Cardinal ></h1>
-          <img src="lilys-mf-site-test.png">
+          <img src="../lilys-mf-site-test.png">
           </div>
         <div style="margin-top: 0px; padding: 0px 36px 36px;">
           <h1 class="center">Naked Gods ></h1>
