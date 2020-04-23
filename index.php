@@ -105,8 +105,8 @@
     <div>
       <div style="display: flex; flex-direction: column; max-width: 500px; position: fixed; top: 24px; right: 24px;">
     <div class="spin-logo" style="display: flex; flex-direction: row; margin: 0 auto;">
-      <div><img src="/m-flip.png"></div>
-      <div><img class="diff" src="/a-flip.png"></div>
+      <div><img src="img/m-flip.png"></div>
+      <div><img class="diff" src="img/a-flip.png"></div>
       <div><img class="diffmore" src="a-flip.png"></div>
       <div><img class="diffmore" src="a-flip.png"></div>
       <div><img src="a-flip.png"></div>
