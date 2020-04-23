@@ -9,7 +9,7 @@
   <div class="row">
     <div class="col-sm">
       <div class="contenttype-title">
-        <h3>Posts</h3>
+        <h3>SHITTY Posts</h3>
         <a href="" class="side-text-button" data-toggle="modal" data-target="#add-content-modal"><i class="fas fa-plus-circle"></i> New post</a>
       </div>
       <div class="list-group">
