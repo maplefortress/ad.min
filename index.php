@@ -216,7 +216,7 @@
       <div class="flex-2"> 
         <div style="margin-top: 0px; padding: 0px 36px 36px;">
          <h1 class="center">Hopscotch Music Festival ></h1>
-        <img src="hopscotch-test.png">
+        <img src="public_html/hopscotch-test.png">
           </div>
         <div style="margin-top: 0px; padding: 0px 36px 36px;">
           
@@ -225,7 +225,7 @@
           </div>
         <div style="margin-top: 0px; padding: 0px 36px 36px;">
         <h1 class="center">Oxford American ></h1>
-        <img src="insta-oa-dw-transparent.png">
+        <img src="/insta-oa-dw-transparent.png">
         </div>
         <div style="margin-top: 0px; padding: 0px 36px 36px;">
           <h1 class="center">Lily's Snack Bar / The Cardinal ></h1>
