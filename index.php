@@ -107,10 +107,10 @@
     <div class="spin-logo" style="display: flex; flex-direction: row; margin: 0 auto;">
       
       <div><?php $result = $_GET['img/a-flip.png'];?><img src="img/<?php echo $result; ?>.png"></div>
-      <div><img class="diff" src="public_html/img/a-flip.png"></div>
-      <div><img class="diffmore" src="a-flip.png"></div>
-      <div><img class="diffmore" src="a-flip.png"></div>
-      <div><img src="a-flip.png"></div>
+      <div><img class="diff" src="../img/a-flip.png"></div>
+      <div><img class="diffmore" src="/../img/a-flip.png"></div>
+      <div><img class="diffmore" src="../../img/a-flip.png"></div>
+      <div><img src="../public_html/img/a-flip.png"></div>
     </div>
     
     <div class="spin-logo" style="display: flex; flex-direction: row; margin: 0 auto;">
