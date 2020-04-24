@@ -22,14 +22,11 @@ do
 done
 
 
-mkdir -p "$DEST/$img/"
+mkdir -p "$DEST/img"
 
-for f in *.jpg;
-do
-  cat $f >"$DEST/$img/$f";
-	echo "Processing $f file..";
-done
 
+
+mv ./img/ ./$DEST/img
 
 
 echo "Process complete." ;
