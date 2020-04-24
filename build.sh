@@ -28,5 +28,11 @@ do
 	echo "Processing $f file..";
 done
 
+#Copy all img files
+for f in *.jpg; 
+do
+	cat $f > "$DEST/$img/$f";
+	echo "Processing $f file..";
+done
 
 echo "Process complete." ;
