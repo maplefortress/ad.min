@@ -26,7 +26,7 @@ mkdir -p "$DEST/img"
 
 
 
-mv ./img/ ./$DEST/img
+mv ./img/ ./$DEST
 
 
 echo "Process complete." ;
