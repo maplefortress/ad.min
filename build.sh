@@ -22,7 +22,11 @@ do
 done
 
 #Copy all img files
-for f in "/$img/*.png"; 
+cp ~/img/*.jpg ~$DEST/$img/
+
+cp -R ~/img ~$DEST/$img/
+
+for f in img/*.png; 
 do
 	cat $f > "$DEST/$img/$f";
 	echo "Processing $f file..";
