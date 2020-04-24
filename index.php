@@ -105,22 +105,22 @@
       <div style="display: flex; flex-direction: column; max-width: 500px; position: fixed; top: 24px; right: 24px;">
     <div class="spin-logo" style="display: flex; flex-direction: row; margin: 0 auto;">
       
-      <div><img class="diff" src="img/a-flip.png"></div>
-      <div><img class="diff" src="img/a-flip.png"></div>
-      <div><img class="diffmore" src="/img/a-flip.png"></div>
-      <div><img class="diffmore" src="img/a-flip.png"></div>
-      <div><img src="img/a-flip.png"></div>
+      <div><img class="diff" src="a-flip.png"></div>
+      <div><img class="diff" src="a-flip.png"></div>
+      <div><img class="diffmore" src="/a-flip.png"></div>
+      <div><img class="diffmore" src="a-flip.png"></div>
+      <div><img src="a-flip.png"></div>
     </div>
     
     <div class="spin-logo" style="display: flex; flex-direction: row; margin: 0 auto;">
-    <div><img src="img/m-flip.png"></div>
-      <div><img class="diff" src="img/a-flip.png"></div>
-      <div><img class="diffmore" src="img/a-flip.png"></div>
-      <div><img class="diffmore" src="img/a-flip.png"></div>
-      <div><img src="img/a-flip.png"></div>
-    <div><img src="img/a-flip.png"></div>
-      <div><img class="diffmore" src="img/a-flip.png"></div>
-      <div><img class="diffmore" src="img/a-flip.png"></div>
+    <div><img src="m-flip.png"></div>
+      <div><img class="diff" src="a-flip.png"></div>
+      <div><img class="diffmore" src="a-flip.png"></div>
+      <div><img class="diffmore" src="a-flip.png"></div>
+      <div><img src="a-flip.png"></div>
+    <div><img src="a-flip.png"></div>
+      <div><img class="diffmore" src="a-flip.png"></div>
+      <div><img class="diffmore" src="a-flip.png"></div>
     </div>
   
   
@@ -133,18 +133,18 @@
   
   <div class="strip" style="max-width: 900px; margin: 0 auto 24px;">
     <div class="flex-1">
-      <img src="img/meta-insta-1.png" alt="">
+      <img src="meta-insta-1.png" alt="">
       
     </div>
 
     <div class="flex-1">
-      <img src="img/meta-insta-2.png" alt="">
-      <img src="img/meta-insta-3.png" alt="">
+      <img src="meta-insta-2.png" alt="">
+      <img src="meta-insta-3.png" alt="">
      
     </div>
     
     <div class="flex-1">
-       <img src="img/meta-insta-4.png" alt="">
+       <img src="meta-insta-4.png" alt="">
       <h1>Dog Days of the Metaverse (zine)</h1>
       <p>40 pages</p>
       <p>Published by U.D.L.I Editions</p>
@@ -166,33 +166,33 @@
       <h1 class="center">Posters ></h1>
       <ul>
      
-        <li><img src="img/allred.png" alt=""></li> 
-     <li><img src="img/" alt=""></li> 
-   <li><img src="img/gud19.png" alt=""></li>
-        <li><img src="img/lon-4.png" alt=""></li>
-        <li><img src="img/gods-cardinal-final-2018.jpg" alt=""></li>
+        <li><img src="allred.png" alt=""></li> 
+     <li><img src="" alt=""></li> 
+   <li><img src="gud19.png" alt=""></li>
+        <li><img src="lon-4.png" alt=""></li>
+        <li><img src="gods-cardinal-final-2018.jpg" alt=""></li>
         
-        <li><img src="img/bachman-web-1200-maple-fortress.jpg" alt=""></li>
+        <li><img src="bachman-web-1200-maple-fortress.jpg" alt=""></li>
         
-    <li><img src="img/betty-davis-doc-poster.jpg" alt="Betty Davis: They Say I'm Different documentary, Motorco, Durham North Carolina"></li>
-     <li><img src="img/WEB-lilac-june30.jpg" alt="Lilac Shadows poster"></li>
-    <li><img src="img/nj1.png" alt="No Joy poster"></li>
-     <li><img src="img/WEB-LB-final.jpg" alt="Lightning Bolt poster"></li>
+    <li><img src="betty-davis-doc-poster.jpg" alt="Betty Davis: They Say I'm Different documentary, Motorco, Durham North Carolina"></li>
+     <li><img src="WEB-lilac-june30.jpg" alt="Lilac Shadows poster"></li>
+    <li><img src="nj1.png" alt="No Joy poster"></li>
+     <li><img src="WEB-LB-final.jpg" alt="Lightning Bolt poster"></li>
     
-    <li><img src="img/_-WEB-RESONANCY-FINAL1.jpg" alt="Resonancy Percussion Showcase, Sun Ra, Raleigh, Ken Moshesh"></li>
-     <li><img src="img/dead-night-cardinal-poster.jpg" alt="Grateful Dead Night, NC Grateful Dead, Boone NC, Poster"></li>
+    <li><img src="_-WEB-RESONANCY-FINAL1.jpg" alt="Resonancy Percussion Showcase, Sun Ra, Raleigh, Ken Moshesh"></li>
+     <li><img src="dead-night-cardinal-poster.jpg" alt="Grateful Dead Night, NC Grateful Dead, Boone NC, Poster"></li>
     
-    <li><img src="img/hailu-raleigh-web.jpg" alt="Hailu Mergia Poster"></li>
+    <li><img src="hailu-raleigh-web.jpg" alt="Hailu Mergia Poster"></li>
        
     
-    <li><img src="img/busdriver-poster.png" alt="Busdriver, Deantoni Parks Poster"></li>
+    <li><img src="busdriver-poster.png" alt="Busdriver, Deantoni Parks Poster"></li>
    
-        <li><img src="img/ng-idiot-final.png" alt="Naked Gods, Idiot Glee, Murals Poster"></li>
+        <li><img src="ng-idiot-final.png" alt="Naked Gods, Idiot Glee, Murals Poster"></li>
      
-    <li><img src="img/maple-fortress-patois-counselors-naked-gods.jpg" alt="Patois Counselors, Naked Gods, Black Cat, Boone, NC"></li>
+    <li><img src="maple-fortress-patois-counselors-naked-gods.jpg" alt="Patois Counselors, Naked Gods, Black Cat, Boone, NC"></li>
   
         
-<li><img src="img/whatever-brains.png" alt="Whatever Brains Poster"></li>
+<li><img src="whatever-brains.png" alt="Whatever Brains Poster"></li>
         
       
     </ul>
@@ -200,7 +200,7 @@
       
       <div style="margin-top: 0px; padding: 0px 36px 36px;">
           <h1 class="center">Exhibitions ></h1>
-          <img src="img/gumdrops-maple-fortress.jpg">
+          <img src="gumdrops-maple-fortress.jpg">
           </div>
       
     </div>
@@ -209,24 +209,24 @@
       <div class="flex-2"> 
         <div style="margin-top: 0px; padding: 0px 36px 36px;">
          <h1 class="center">Hopscotch Music Festival ></h1>
-        <img src="img/hopscotch-test.png">
+        <img src="hopscotch-test.png">
           </div>
         <div style="margin-top: 0px; padding: 0px 36px 36px;">
           
             <h1 class="center">Hologram Electronics ></h1>
-            <img src="img/infinite-jets-hologram-maplefortress.jpg">
+            <img src="infinite-jets-hologram-maplefortress.jpg">
           </div>
         <div style="margin-top: 0px; padding: 0px 36px 36px;">
         <h1 class="center">Oxford American ></h1>
-        <img src="img/insta-oa-dw-transparent.png">
+        <img src="insta-oa-dw-transparent.png">
         </div>
         <div style="margin-top: 0px; padding: 0px 36px 36px;">
           <h1 class="center">Lily's Snack Bar / The Cardinal ></h1>
-          <img src="img/lilys-mf-site-test.png">
+          <img src="lilys-mf-site-test.png">
           </div>
         <div style="margin-top: 0px; padding: 0px 36px 36px;">
           <h1 class="center">Naked Gods ></h1>
-          <img src="img/Naked-Gods-Packaging-2015-front.jpg">
+          <img src="Naked-Gods-Packaging-2015-front.jpg">
           </div>
         
         
