@@ -167,7 +167,7 @@
       <ul>
      
         <li><img src="allred.png" alt=""></li> 
-     <li><img src="" alt=""></li> 
+     <li><img src="david-nance-poster-Maple-Fortress.jpg" alt=""></li> 
    <li><img src="gud19.png" alt=""></li>
         <li><img src="lon-4.png" alt=""></li>
         <li><img src="gods-cardinal-final-2018.jpg" alt=""></li>
