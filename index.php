@@ -138,18 +138,18 @@
   
   <div class="strip" style="max-width: 900px; margin: 0 auto 24px;">
     <div class="flex-1">
-      <img src="img/meta-insta-1.png" alt="">
+      <img src="img/meta-insta-1.jpg" alt="">
       
     </div>
 
     <div class="flex-1">
-      <img src="img/meta-insta-2.png" alt="">
-      <img src="img/meta-insta-3.png" alt="">
+      <img src="img/meta-insta-2.jpg" alt="">
+      <img src="img/meta-insta-3.jpg" alt="">
      
     </div>
     
     <div class="flex-1">
-       <img src="img/meta-insta-4.png" alt="">
+       <img src="img/meta-insta-4.jpg" alt="">
       <h1>Dog Days of the Metaverse (zine)</h1>
       <p>40 pages</p>
       <p>Published by U.D.L.I Editions</p>

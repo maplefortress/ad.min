@@ -23,7 +23,6 @@ done
 
 
 
-
 mv ./img/ ./$DEST
 
 
