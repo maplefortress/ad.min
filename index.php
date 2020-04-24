@@ -32,7 +32,12 @@
   .flex-3 {flex: 3;}
   h1 {font-family: Fuji-Bold; font-size: 20px; text-decoration: underline;}
   ul {padding: 0px 12px; flex-wrap: wrap; display: flex;}
+  
   ul li.yep { flex: 1; padding: 12px; min-width: 160px; max-width: 205px;}
+  
+  ul.yep {padding: 0px 12px; flex-wrap: wrap; display: flex;}
+  ul.yep li {flex: 1; padding: 12px; min-width: 160px; max-width: 205px;}
+  
   .center {text-align: center;}
   .spin-logo > div > img {-webkit-animation: rotation 15s infinite linear;}
   
@@ -164,7 +169,7 @@
     
     <div class="flex-2">
       <h1 class="center">Posters ></h1>
-      <ul>
+      <ul class="yep">
      
         <li><img src="allred.png" alt=""></li> 
      <li><img src="david-nance-poster-Maple-Fortress.jpg" alt=""></li> 
