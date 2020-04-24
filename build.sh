@@ -22,8 +22,6 @@ do
 done
 
 
-mkdir -p "$DEST/img"
-
 
 
 mv ./img/ ./$DEST

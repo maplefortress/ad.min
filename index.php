@@ -171,7 +171,7 @@
       <h1 class="center">Posters ></h1>
       <ul class="yep">
      
-        <li><img src="img/img/allred.png" alt=""></li> 
+        <li><img src="img/allred.png" alt=""></li> 
      <li><img src="img/david-nance-poster-Maple-Fortress.jpg" alt=""></li> 
    <li><img src="img/gud19.png" alt=""></li>
         <li><img src="img/lon-4.png" alt=""></li>
