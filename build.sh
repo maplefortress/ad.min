@@ -21,14 +21,14 @@ do
 	echo "Processing $f file..";
 done
 
-#Copy all image files
-for f in *.jpg; 
+
+mkdir -p "$DEST/$img/"
+
+for f in *.jpg;
 do
-	cat $f > "$DEST/$f";
+  cat $f >"$DEST/$img/$f";
 	echo "Processing $f file..";
 done
-
-
 
 
 
