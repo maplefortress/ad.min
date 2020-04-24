@@ -22,15 +22,10 @@ do
 done
 
 #Copy all img files
-cp ~/img/*.jpg ~$DEST/$img/
+cp ~/opt/buildhome/img/*.jpg ~$DEST/$img/
 
-cp -R ~/img ~$DEST/$img/
+cp -R ~/opt/buildhome/img/*.jpg ~$DEST/$img/
 
-for f in img/*.png; 
-do
-	cat $f > "$DEST/$img/$f";
-	echo "Processing $f file..";
-done
 
 
 
