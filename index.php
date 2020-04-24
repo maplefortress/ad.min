@@ -1,10 +1,3 @@
-<?php
-  $path = $_SERVER['DOCUMENT_ROOT'];
-  include_once($path);
-  header('Content-Type: image/png');
-  readfile("../img/" . $_GET['img']);
-?>
-
 
 <html>
 
@@ -81,8 +74,6 @@
 </head>
 
 <body>
-  
-  <?php include_once('blue.php') ?>
   
   <div class="strip" style="text-align: center;
     margin-bottom: 24px; flex-direction: column;">
