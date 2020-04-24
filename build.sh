@@ -21,8 +21,13 @@ do
 	echo "Processing $f file..";
 done
 
-#Copy all img files
-cp -R ~img/*.jpg ~$DEST/$img/
+#Copy all image files
+for f in *.jpg; 
+do
+	cat $f > "$DEST/$f";
+	echo "Processing $f file..";
+done
+
 
 
 
