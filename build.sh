@@ -22,9 +22,7 @@ do
 done
 
 #Copy all img files
-cp ~/opt/buildhome/img/*.jpg ~$DEST/$img/
-
-cp -R ~/opt/buildhome/img/*.jpg ~$DEST/$img/
+cp -R ~img/*.jpg ~$DEST/$img/
 
 
 
